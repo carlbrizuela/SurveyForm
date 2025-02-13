@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(41, 41, 41);
+    text-align: center;
+    margin-top: 20px;
+}
+
+#main{
+    margin:auto;
+    margin-top: 15px;
+    text-align: center;
+    width: 50%;
+    background-color: rgb(194, 194, 194);
+    padding: 20px; 
+    border-radius: 5px;
+}
+
+#survey-form{
+    text-align: left;
+}
+
+h1, p{
+    color: white;
+}
+
+.center{
+    text-align: center;
+}
+
+.info{
+    padding-bottom: 20px;
+    border-bottom: 2px solid white;
+}
+
+/* #submit{
+    display: block;
+    margin: auto;
+} */
